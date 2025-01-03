@@ -20,10 +20,9 @@ function typeCode() {
 function showLinks() {
   const linksContainer = document.createElement('div');
   linksContainer.innerHTML = `
-    <a href="https://github.com/Bilal" target="_blank">GitHub</a>
-    <a href="https://www.linkedin.com/in/bilal" target="_blank">LinkedIn</a>
-    <a href="https://www.reddit.com/user/bilal" target="_blank">Reddit</a>
-    <a href="https://www.stackoverflow.com/users/1234567/bilal" target="_blank">StackOverflow</a>
+    <a href="https://github.com/mr-xo/mr-xo.github.io" target="_blank">GitHub</a>
+    <a href="https://www.linkedin.com/in/meisara-salem-75b925344/" target="_blank">LinkedIn</a>
+    <a href="https://www.reddit.com/user/Past-Song2493/" target="_blank">Reddit</a>
   `;
 
   linksContainer.style.marginTop = '20px';
