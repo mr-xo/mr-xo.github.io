@@ -1,7 +1,7 @@
 // The CSS content to type out
-const codeContent = `My name is Bilal. 
-I am a backend developer with expertise in building and maintaining server-side applications. 
-I specialize in designing scalable systems and working with technologies such as Python, Node.js, and MySQL.
+const codeContent = `My name is Meisara Salem.
+I am a web developer specializing in building and maintaining backend applications.
+I focus on designing scalable systems and work with technologies like Python, Node.js, and MySQL.
 Feel free to reach out to discuss potential opportunities or collaborations!`;
 
 const codeElement = document.getElementById("code");
